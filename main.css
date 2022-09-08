@@ -1,0 +1,53 @@
+html{
+    background-color: #333333;
+}
+
+#Intro{
+    font-size: x-large;
+    color: white;
+}
+
+#Header{
+    text-align: center;
+    background-color: #222222;
+    color: white;
+}
+
+#Header2{
+    font-size: x-large;
+    
+}
+
+#Div2{
+    float: center;
+    left: 50%;
+
+}
+
+#nav{
+    background-color:#222222;
+    list-style: none;
+	display:  inline-block;
+	color: white;
+	padding: 2px 7px;
+	text-align: center;
+	text-decoration: none;
+	border-right: 1px solid black;
+	min-width: 60px;
+}
+
+li a{
+    background-color:#222222;
+    list-style: none;
+	display:  inline-block;
+	color: white;
+	padding: 2px 7px;
+	text-align: center;
+	text-decoration: none;
+	border-right: 1px solid black;
+	min-width: 60px;
+}
+
+li a:hover{
+    background-color: #333333;
+}
